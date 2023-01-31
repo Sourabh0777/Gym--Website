@@ -1,6 +1,17 @@
 <<<<<<< HEAD
 # 1.-Gym-Project
+![image](https://user-images.githubusercontent.com/46265339/215695520-2ecd7cca-472d-4b67-a3bd-a19e4a6e515b.png)
+
+![image](https://user-images.githubusercontent.com/46265339/215695684-cfa9b1cd-e375-42d7-8ae4-d496c6503eb4.png)
+
+![image](https://user-images.githubusercontent.com/46265339/215696606-01aa437f-12bb-47e1-94da-9e9e61a3bcac.png)
+
+![image](https://user-images.githubusercontent.com/46265339/215696682-5d0e1753-8cef-4716-aea2-d8c517a99c42.png)
+
+
+
 =======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
