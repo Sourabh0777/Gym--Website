@@ -1,5 +1,5 @@
 import './App.css';
-import React, {useState,useEffect,useReducer} from 'react';
+import React from 'react';
 import Hero from './Components/Hero/Hero';
 import Programs from './Components/Programs/Programs';
 import Reasons from './Components/Reasons/Reasons';
